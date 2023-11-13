@@ -35,3 +35,38 @@ Note that spaces should be ignored in this case._
 const vaporcode = (string) => string.replace(/\s/g,'').toUpperCase().split('').join('  ');
 
 ```
+
+## Experience
+**Liga A.**  
+_October 2023 – Present_  
+Frontend Developer – trainee
+* Development of commercial projects;
+* Adaptive cross-browser website coding in accordance with technical specifications of customers based on the Figma design;
+* Setting of the interface elements using the JS etc.
+
+**HTML Academy (accelerator)**  
+_July 2023 – September 2023_  
+Frontend Developer – training practice  
+Development of training projects in accordance with technical specifications and the quality criteria defined by the HTML Academy in a team (a manager, a mentor and a QA engineer).  
+
+My projects:
+ * [Masa](https://anastasiya-y.github.io/masa/)
+ * [Lifetour](https://anastasiya-y.github.io/lifetour/)
+ * [Fitness](https://anastasiya-y.github.io/fitness-2.0/)
+
+## Education
+**University**  
+Herzen State Pedagogical University  
+_2014-2018 – Linguistics – Theory and Methods of Teaching Foreign Languages and Cultures (English and French languages) – Bachelor_
+
+**Courses**  
+HTML Academy  
+_2022-2023 – Profession “Front-end Developer”:_
+* _HTML & CSS. Professional Website Coding (September 2022 – November 2022)_
+* _HTML & CSS. Adaptive Website Coding and Automation (November 2022 – January 2023)_
+* _JavaScript. Professional Development of Web Interfaces (February 2023 – April 2023)_
+
+## Languages
+* Russian – native
+* English – B2
+* French – A2-B1 (haven’t practiced for a long time)
