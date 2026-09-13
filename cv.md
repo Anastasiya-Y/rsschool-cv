@@ -28,7 +28,7 @@ Following that, I participated in an internship at Liga A. Now I am focused on c
 - Figma.
 
 ## Code Example
-**Task name:** V A P O R C O D E
+**Task name:** V A P O R C O D E   
 **Task description:** _Write a function that converts any sentence into a V A P O R W A V E sentence; a V A P O R W A V E sentence converts all the letters into uppercase, and adds 2 spaces between each letter (or special character) to create this V A P O R W A V E effect.
 Note that spaces should be ignored in this case._
 
@@ -40,14 +40,14 @@ const vaporcode = (string) => string.replace(/\s/g,'').toUpperCase().split('').j
 
 ## Experience
 **Liga A.**  
-_October 2023 – December 2024_  
-Frontend Developer – trainee
+_October 2023 – December 2023_  
+Frontend Developer – trainee  
 * Development of commercial projects;
 * Adaptive cross-browser website coding in accordance with technical specifications of customers based on the Figma design;
 * Setting of the interface elements using the JS etc.
 
 **HTML Academy (accelerator)**  
-_July 2023 – September 2023_  
+_July 2023 – September 2023_   
 Frontend Developer – training practice  
 Development of training projects in accordance with technical specifications and the quality criteria defined by the HTML Academy in a team (a manager, a mentor and a QA engineer).  
 
@@ -62,8 +62,8 @@ Herzen State Pedagogical University
 _2014-2018 – Linguistics – Theory and Methods of Teaching Foreign Languages and Cultures (English and French languages) – Bachelor_
 
 **Courses**  
-RS School 
-_September 2026-Present – Full-Stack JavaScript 2026 Q3”:_
+RS School  
+_September 2026-Present – Full-Stack JavaScript 2026 Q3_
 
 HTML Academy  
 _2022-2023 – Profession “Front-end Developer”:_
