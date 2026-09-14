@@ -143,6 +143,20 @@ ul {
 .main-footer {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+    font-size: 18px;
+}
+
+.main-footer__course-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-footer__course-link img {
+    width: 150px;
+    height: auto;
 }
 
 .main-footer:first-child {
