@@ -1,1 +1,2 @@
-https://anastasiya-y.github.io/rsschool-cv/
+[CV markdown](https://Anastasiya-Y.github.io/rsschool-cv/cv)  
+[CV page](https://Anastasiya-Y.github.io/rsschool-cv/)
